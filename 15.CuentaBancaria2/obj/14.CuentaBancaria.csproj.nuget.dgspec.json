@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\poli\\Documents\\8VO Semestre\\sistemasInfoGeo\\sisinfogeo2020\\15.CuentaBancaria2\\14.CuentaBancaria.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\poli\\Documents\\8VO Semestre\\sistemasInfoGeo\\sisinfogeo2020\\15.CuentaBancaria2\\14.CuentaBancaria.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\poli\\Documents\\8VO Semestre\\sistemasInfoGeo\\sisinfogeo2020\\15.CuentaBancaria2\\14.CuentaBancaria.csproj",
+        "projectName": "14.CuentaBancaria",
+        "projectPath": "C:\\Users\\poli\\Documents\\8VO Semestre\\sistemasInfoGeo\\sisinfogeo2020\\15.CuentaBancaria2\\14.CuentaBancaria.csproj",
+        "packagesPath": "C:\\Users\\poli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\poli\\Documents\\8VO Semestre\\sistemasInfoGeo\\sisinfogeo2020\\15.CuentaBancaria2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\poli\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
