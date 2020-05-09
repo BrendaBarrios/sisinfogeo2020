@@ -1,0 +1,11 @@
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\29.Threading3\bin\MCD\Debug\netcoreapp3.0\29.Threading3.exe
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\29.Threading3\bin\MCD\Debug\netcoreapp3.0\29.Threading3.deps.json
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\29.Threading3\bin\MCD\Debug\netcoreapp3.0\29.Threading3.runtimeconfig.json
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\29.Threading3\bin\MCD\Debug\netcoreapp3.0\29.Threading3.runtimeconfig.dev.json
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\29.Threading3\bin\MCD\Debug\netcoreapp3.0\29.Threading3.dll
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\29.Threading3\bin\MCD\Debug\netcoreapp3.0\29.Threading3.pdb
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\29.Threading3\obj\MCD\Debug\netcoreapp3.0\29.Threading3.csprojAssemblyReference.cache
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\29.Threading3\obj\MCD\Debug\netcoreapp3.0\29.Threading3.AssemblyInfoInputs.cache
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\29.Threading3\obj\MCD\Debug\netcoreapp3.0\29.Threading3.AssemblyInfo.cs
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\29.Threading3\obj\MCD\Debug\netcoreapp3.0\29.Threading3.dll
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\29.Threading3\obj\MCD\Debug\netcoreapp3.0\29.Threading3.pdb
