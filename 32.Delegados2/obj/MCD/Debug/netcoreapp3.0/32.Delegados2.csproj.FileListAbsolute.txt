@@ -1,0 +1,11 @@
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\32.Delegados2\obj\MCD\Debug\netcoreapp3.0\32.Delegados2.csprojAssemblyReference.cache
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\32.Delegados2\obj\MCD\Debug\netcoreapp3.0\32.Delegados2.AssemblyInfoInputs.cache
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\32.Delegados2\obj\MCD\Debug\netcoreapp3.0\32.Delegados2.AssemblyInfo.cs
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\32.Delegados2\bin\MCD\Debug\netcoreapp3.0\32.Delegados2.exe
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\32.Delegados2\bin\MCD\Debug\netcoreapp3.0\32.Delegados2.deps.json
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\32.Delegados2\bin\MCD\Debug\netcoreapp3.0\32.Delegados2.runtimeconfig.json
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\32.Delegados2\bin\MCD\Debug\netcoreapp3.0\32.Delegados2.runtimeconfig.dev.json
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\32.Delegados2\bin\MCD\Debug\netcoreapp3.0\32.Delegados2.dll
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\32.Delegados2\bin\MCD\Debug\netcoreapp3.0\32.Delegados2.pdb
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\32.Delegados2\obj\MCD\Debug\netcoreapp3.0\32.Delegados2.dll
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\32.Delegados2\obj\MCD\Debug\netcoreapp3.0\32.Delegados2.pdb
