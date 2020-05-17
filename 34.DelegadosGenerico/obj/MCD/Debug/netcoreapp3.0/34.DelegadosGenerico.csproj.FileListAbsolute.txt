@@ -1,0 +1,11 @@
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\34.DelegadosGenerico\obj\MCD\Debug\netcoreapp3.0\34.DelegadosGenerico.csprojAssemblyReference.cache
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\34.DelegadosGenerico\obj\MCD\Debug\netcoreapp3.0\34.DelegadosGenerico.AssemblyInfoInputs.cache
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\34.DelegadosGenerico\obj\MCD\Debug\netcoreapp3.0\34.DelegadosGenerico.AssemblyInfo.cs
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\34.DelegadosGenerico\bin\MCD\Debug\netcoreapp3.0\34.DelegadosGenerico.exe
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\34.DelegadosGenerico\bin\MCD\Debug\netcoreapp3.0\34.DelegadosGenerico.deps.json
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\34.DelegadosGenerico\bin\MCD\Debug\netcoreapp3.0\34.DelegadosGenerico.runtimeconfig.json
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\34.DelegadosGenerico\bin\MCD\Debug\netcoreapp3.0\34.DelegadosGenerico.runtimeconfig.dev.json
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\34.DelegadosGenerico\bin\MCD\Debug\netcoreapp3.0\34.DelegadosGenerico.dll
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\34.DelegadosGenerico\bin\MCD\Debug\netcoreapp3.0\34.DelegadosGenerico.pdb
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\34.DelegadosGenerico\obj\MCD\Debug\netcoreapp3.0\34.DelegadosGenerico.dll
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\34.DelegadosGenerico\obj\MCD\Debug\netcoreapp3.0\34.DelegadosGenerico.pdb
