@@ -1,0 +1,11 @@
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\35.Delegados_con_parametro\obj\MCD\Debug\netcoreapp3.0\35.Delegados_con_parametro.csprojAssemblyReference.cache
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\35.Delegados_con_parametro\obj\MCD\Debug\netcoreapp3.0\35.Delegados_con_parametro.AssemblyInfoInputs.cache
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\35.Delegados_con_parametro\obj\MCD\Debug\netcoreapp3.0\35.Delegados_con_parametro.AssemblyInfo.cs
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\35.Delegados_con_parametro\bin\MCD\Debug\netcoreapp3.0\35.Delegados_con_parametro.exe
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\35.Delegados_con_parametro\bin\MCD\Debug\netcoreapp3.0\35.Delegados_con_parametro.deps.json
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\35.Delegados_con_parametro\bin\MCD\Debug\netcoreapp3.0\35.Delegados_con_parametro.runtimeconfig.json
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\35.Delegados_con_parametro\bin\MCD\Debug\netcoreapp3.0\35.Delegados_con_parametro.runtimeconfig.dev.json
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\35.Delegados_con_parametro\bin\MCD\Debug\netcoreapp3.0\35.Delegados_con_parametro.dll
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\35.Delegados_con_parametro\bin\MCD\Debug\netcoreapp3.0\35.Delegados_con_parametro.pdb
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\35.Delegados_con_parametro\obj\MCD\Debug\netcoreapp3.0\35.Delegados_con_parametro.dll
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\35.Delegados_con_parametro\obj\MCD\Debug\netcoreapp3.0\35.Delegados_con_parametro.pdb
