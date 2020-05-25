@@ -1,0 +1,11 @@
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\36.Sistema01\bin\MCD\Debug\netcoreapp3.0\36.Sistema01.exe
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\36.Sistema01\bin\MCD\Debug\netcoreapp3.0\36.Sistema01.deps.json
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\36.Sistema01\bin\MCD\Debug\netcoreapp3.0\36.Sistema01.runtimeconfig.json
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\36.Sistema01\bin\MCD\Debug\netcoreapp3.0\36.Sistema01.runtimeconfig.dev.json
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\36.Sistema01\bin\MCD\Debug\netcoreapp3.0\36.Sistema01.dll
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\36.Sistema01\bin\MCD\Debug\netcoreapp3.0\36.Sistema01.pdb
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\36.Sistema01\obj\MCD\Debug\netcoreapp3.0\36.Sistema01.csprojAssemblyReference.cache
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\36.Sistema01\obj\MCD\Debug\netcoreapp3.0\36.Sistema01.AssemblyInfoInputs.cache
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\36.Sistema01\obj\MCD\Debug\netcoreapp3.0\36.Sistema01.AssemblyInfo.cs
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\36.Sistema01\obj\MCD\Debug\netcoreapp3.0\36.Sistema01.dll
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\36.Sistema01\obj\MCD\Debug\netcoreapp3.0\36.Sistema01.pdb
