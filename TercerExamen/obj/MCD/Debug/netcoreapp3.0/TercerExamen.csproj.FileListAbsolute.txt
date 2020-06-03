@@ -1,0 +1,11 @@
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\TercerExamen\bin\MCD\Debug\netcoreapp3.0\TercerExamen.exe
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\TercerExamen\bin\MCD\Debug\netcoreapp3.0\TercerExamen.deps.json
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\TercerExamen\bin\MCD\Debug\netcoreapp3.0\TercerExamen.runtimeconfig.json
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\TercerExamen\bin\MCD\Debug\netcoreapp3.0\TercerExamen.runtimeconfig.dev.json
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\TercerExamen\bin\MCD\Debug\netcoreapp3.0\TercerExamen.dll
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\TercerExamen\bin\MCD\Debug\netcoreapp3.0\TercerExamen.pdb
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\TercerExamen\obj\MCD\Debug\netcoreapp3.0\TercerExamen.csprojAssemblyReference.cache
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\TercerExamen\obj\MCD\Debug\netcoreapp3.0\TercerExamen.AssemblyInfoInputs.cache
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\TercerExamen\obj\MCD\Debug\netcoreapp3.0\TercerExamen.AssemblyInfo.cs
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\TercerExamen\obj\MCD\Debug\netcoreapp3.0\TercerExamen.dll
+C:\Users\ALUMNO\Documents\8Semestre\C#\Proyectos_info_geo\TercerExamen\obj\MCD\Debug\netcoreapp3.0\TercerExamen.pdb
